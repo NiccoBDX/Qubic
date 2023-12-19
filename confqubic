@@ -1,0 +1,8 @@
+{        
+"Settings": {
+                "baseUrl": "https://mine.qubic.li/",
+                "amountOfThreads": 32,
+                "alias": "dell",
+                "accessToken": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjI3MGZjZjRlLTI5YjctNDc3Yy04OTJhLTBjNGE2M2Y4YTFkMSIsIk1pbmluZyI6IiIsIm5iZiI6MTcwMjYzNzEyMCwiZXh$
+        }
+}
